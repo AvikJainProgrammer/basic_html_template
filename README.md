@@ -2,7 +2,7 @@
 Contains templates to use in other projects
 
 #Sample project file structure
-'''
+```
 /my-project
 │─── 📄 index.html            # Main HTML file
 │─── 📄 about.html            # Example additional page
@@ -43,4 +43,4 @@ Contains templates to use in other projects
 │
 └─── 📄 README.md             # Project documentation
 
-'''
+```
