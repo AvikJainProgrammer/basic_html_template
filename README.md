@@ -150,3 +150,5 @@ body {
 ✅ **Use `defer` or `async` for scripts** to speed up page load.  
 
 Following these best practices ensures **faster load times, better organization, and future scalability**! 🚀
+
+TODO: CSS guide line
